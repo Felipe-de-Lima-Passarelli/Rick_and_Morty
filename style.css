@@ -121,11 +121,6 @@ body {
   background-color: #27ae60;
 }
 
-.pagination button:disabled {
-  background-color: #bbb;
-  cursor: not-allowed;
-}
-
 #page-number {
   font-size: 18px;
   font-weight: 700;
