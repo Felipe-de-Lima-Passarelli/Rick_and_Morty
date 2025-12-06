@@ -46,6 +46,7 @@ Bem-vindo ao projeto **Rick and Morty Characters**, um catálogo interativo que 
 ```
 /rick-and-morty-characters
 │   LICENSE
+│   README.md
 │   index.html
 │   index.js
 │   style.css
